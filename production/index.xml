@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Production on Doc List</title>
-    <link>http://example.org/production/</link>
+    <link>https://xopensource.github.io/production/</link>
     <description>Recent content in Production on Doc List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>The Hugo Documents are copyright © gethugothemes 2018.</copyright>
+    <copyright>© XOS Team 2019</copyright>
     <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate>
     
-	<atom:link href="http://example.org/production/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xopensource.github.io/production/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
